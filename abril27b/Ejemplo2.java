@@ -38,6 +38,8 @@ public class Ejemplo2 {
         System.out.println(clientes.get(0).nombre);
         System.out.println(clientes.get(1).nombre);
 
+        System.out.println("La cantidad de clientes es "+clientes.size());
+
     }
 
 }

@@ -76,6 +76,8 @@ public class Principal {
         System.out.println("El primer producto se llama:");
         // si escribo sout y presiono tab.
         System.out.println(listadoCompras.get(0).producto);
+
+        System.out.println("Las cantidad de elementos "+listadoCompras.size());
         
 
        
