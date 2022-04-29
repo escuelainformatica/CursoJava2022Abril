@@ -11,7 +11,15 @@ public class Envio {
     public Envio() {
 
     }
-    
+
+    /**
+     * Este es el constructor con envio (java doc)
+     * @param destinatario
+     * @param peso
+     * @param alto
+     * @param ancho
+     * @param largo
+     */
     public Envio(String destinatario, int peso,
           int alto, int ancho, int largo) {
 
@@ -20,6 +28,6 @@ public class Envio {
         this.alto=alto;
         this.ancho=ancho;
         this.largo=largo;
-    }
+    } // fin del constructor envio
 
-}
+} // fin de la clase
