@@ -14,6 +14,8 @@ public class Ejemplo2 {
         //1111-1| John   | Sunset blv.
         //2222-2| Peter  | Avenida ccc.
 
+        
+
         // 1) crear un modelo.  
         //    crear una clase, ideal en una carpeta con el nombre correspondiente (deberia ser en singular)
         // 2) voy a crear las filas.
